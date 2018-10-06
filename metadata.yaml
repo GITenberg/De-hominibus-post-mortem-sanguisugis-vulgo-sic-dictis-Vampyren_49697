@@ -22,5 +22,7 @@ language: la
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: De hominibus post mortem sanguisugis vulgo sic dictis Vampyren
 url: http://www.gutenberg.org/ebooks/49697
